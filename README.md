@@ -1,4 +1,4 @@
-# AdColony - Blackjack Challange
+# Blackjack
 
 ## Usage
 * Start the game with `node index.js` command
